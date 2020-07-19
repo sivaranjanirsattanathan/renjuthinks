@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  
+  <div class="wrapper">{% include head.html %}</div>
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+    
+
+    {% include footer.html %}
+
+
+    <div class="wrapper">{% include share-buttons.html %}</div>
+  </body>
+
+</html>
