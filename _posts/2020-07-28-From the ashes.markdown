@@ -5,23 +5,23 @@ date:   2020-07-28 14.42.00
 categories: Poems
 ---
 
-<p> Wrong or Right  
+<p> Wrong or Right  <br />
 
-The one that she wore,  
+The one that she wore,  <br />
 
-Fear and fight   
+Fear and fight   <br />
 
-came through the door   
+came through the door   <br />
 </p>
 
 
-<p>Happy was the time  
+<p>Happy was the time  <br />
 
-she roamed and rolled,  
+she roamed and rolled,  <br />
 
-Grown was a crime  
+Grown was a crime  <br />
 
-she turned so cold  
+she turned so cold  <br />
 </p>
 
 
