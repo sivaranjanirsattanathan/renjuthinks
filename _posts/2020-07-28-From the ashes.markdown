@@ -5,61 +5,49 @@ date:   2020-07-28 14.42.00
 categories: Poems
 ---
 
-<p> Wrong or Right  <br />
-
-The one that she wore,  <br />
-
-Fear and fight   <br />
-
-came through the door   <br />
-</p>
+ Wrong or Right<br />
+The one that she wore,<br />
+Fear and fight<br />
+came through the door<br />
 
 
-<p>Happy was the time  <br />
-
-she roamed and rolled,  <br />
-
-Grown was a crime  <br />
-
-she turned so cold  <br />
-</p>
+Happy was the time<br />
+she roamed and rolled,<br />
+Grown was a crime<br />
+she turned so cold<br />
 
 
-<p>Time is God  
-
-she learnt so hard,  
-
-Integrity, a word  
-
-she failed to guard  
-</p>
+Time is God<br />
+she learnt so hard,<br />
+Integrity, a word<br />
+she failed to guard<br />
 
 
-<p>Lessons she learnt  
-paved her a path,
-scars that burnt
-calmed her wrath</p>
+Lessons she learnt  <br />
+paved her a path,<br />
+scars that burnt<br />
+calmed her wrath<br />
 
 
-<p>All the broken pieces
-made into one,
-now staying at peace
-yet, deed not done</p>
+All the broken pieces<br />
+made into one,<br />
+now staying at peace<br />
+yet, deed not done<br />
 
 
-<p>She turned the pages
-to write her fate,
-little were the wages
-to reach this state</p>
+She turned the pages<br />
+to write her fate,<br />
+little were the wages<br />
+to reach this state<br />
 
 
-<p>Joy or sorrow
-she chose the right,
-down the narrow
-she grew so bright</p>
+Joy or sorrow<br />
+she chose the right,<br />
+down the narrow<br />
+she grew so bright<br />
 
 
-<p>If life is a volcano,
-she is born out of fire
-Little did she know,
-She herself is a pyre!</p>
+If life is a volcano,<br />
+she is born out of fire<br />
+Little did she know,<br />
+She herself is a pyre!<br />
