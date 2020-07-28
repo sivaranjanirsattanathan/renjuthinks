@@ -5,25 +5,25 @@ date:   2020-07-28 14.42.00
 categories: Poems
 ---
 
-<p> Wrong or Right
-The one that she wore,
-Fear and fight 
-came through the door </p>
+<p> Wrong or Right  
+The one that she wore,  
+Fear and fight   
+came through the door   </p>
 
 
-<p>Happy was the time
-she roamed and rolled,
-Grown was a crime
-she turned so cold</p>
+<p>Happy was the time  
+she roamed and rolled,  
+Grown was a crime  
+she turned so cold  </p>
 
 
-<p>Time is God
-she learnt so hard,
-Integrity, a word
-she failed to guard</p>
+<p>Time is God  
+she learnt so hard,  
+Integrity, a word  
+she failed to guard  </p>
 
 
-<p>Lessons she learnt
+<p>Lessons she learnt  
 paved her a path,
 scars that burnt
 calmed her wrath</p>
