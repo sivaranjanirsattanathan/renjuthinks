@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: post
 title:  "From the ashes"
 date:   2020-07-28 14.42.00
 categories: Poems
