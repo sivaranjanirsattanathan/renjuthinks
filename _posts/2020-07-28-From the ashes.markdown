@@ -6,21 +6,33 @@ categories: Poems
 ---
 
 <p> Wrong or Right  
+
 The one that she wore,  
+
 Fear and fight   
-came through the door   </p>
+
+came through the door   
+</p>
 
 
 <p>Happy was the time  
+
 she roamed and rolled,  
+
 Grown was a crime  
-she turned so cold  </p>
+
+she turned so cold  
+</p>
 
 
 <p>Time is God  
+
 she learnt so hard,  
+
 Integrity, a word  
-she failed to guard  </p>
+
+she failed to guard  
+</p>
 
 
 <p>Lessons she learnt  
