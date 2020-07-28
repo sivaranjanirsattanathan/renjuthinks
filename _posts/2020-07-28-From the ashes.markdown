@@ -5,7 +5,7 @@ date:   2020-07-28 14.42.00
 categories: Poems
 ---
 
- Wrong or Right<br />
+Wrong or Right<br />
 The one that she wore,<br />
 Fear and fight<br />
 came through the door<br />
