@@ -5,49 +5,49 @@ date:   2020-07-28 14.42.00
 categories: Poems
 ---
 
-Wrong or Right
+<p> Wrong or Right
 The one that she wore,
 Fear and fight 
-came through the door 
+came through the door </p>
 
 
-Happy was the time
+<p>Happy was the time
 she roamed and rolled,
 Grown was a crime
-she turned so cold
+she turned so cold</p>
 
 
-Time is God
+<p>Time is God
 she learnt so hard,
 Integrity, a word
-she failed to guard
+she failed to guard</p>
 
 
-Lessons she learnt
+<p>Lessons she learnt
 paved her a path,
 scars that burnt
-calmed her wrath
+calmed her wrath</p>
 
 
-All the broken pieces
+<p>All the broken pieces
 made into one,
 now staying at peace
-yet, deed not done
+yet, deed not done</p>
 
 
-she turned the pages
+<p>She turned the pages
 to write her fate,
 little were the wages
-to reach this state
+to reach this state</p>
 
 
-Joy or sorrow
+<p>Joy or sorrow
 she chose the right,
 down the narrow
-she grew so bright
+she grew so bright</p>
 
 
-If life is a volcano,
+<p>If life is a volcano,
 she is born out of fire
 Little did she know,
-She herself is a pyre!
+She herself is a pyre!</p>
